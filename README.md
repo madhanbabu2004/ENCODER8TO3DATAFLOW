@@ -66,6 +66,6 @@ RegisterNumber:212222230075
 ![outtttt](https://github.com/vishal21004/ENCODER8TO3DATAFLOW/assets/119560110/22298c8c-1c99-4cbd-8e5f-a122e46ef06a)
 
 
-*RESULTS*
+## RESULTS
 
 the output of encoder to data flow has been executed successfully
